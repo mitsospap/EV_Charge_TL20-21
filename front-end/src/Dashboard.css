@@ -1,0 +1,23 @@
+.Dashboard {
+  background-color: #282c34;
+  text-align: left;
+  width: auto;
+  min-height: 100vh;
+}
+h1 {
+  margin: 1.2rem auto;
+  font-family: sans-serif;
+  font-size: 3.5rem;
+}
+blockquote {
+  border-top: 2px solid rgb(255, 119, 0);
+  border-bottom: 2px solid rgb(255, 119, 0);
+  font-size: 2rem;
+  margin: 5% 8%;
+  font-weight: 200;
+  padding: 2%;
+}
+.myDIV{
+  display: none;
+  visibility: hidden;
+}

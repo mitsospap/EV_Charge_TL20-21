@@ -1,0 +1,10 @@
+.Logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    vertical-align: top;
+}
+
+.yes, .no {
+    display: none;
+    }
